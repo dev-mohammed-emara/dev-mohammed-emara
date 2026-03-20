@@ -11,7 +11,7 @@
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
 🌍 Currently working remotely with a Jordan-based tech company.  
 
-🎨 **Portfolio: **[ [https://dev-mohammed-emara-portfolio.netlify.app/](https://dev-mohammed-emara-portfolio.netlify.app/) ]
+🎨 **Portfolio:** [ [https://dev-mohammed-emara-portfolio.netlify.app/](https://dev-mohammed-emara-portfolio.netlify.app/) ]
 
 ---
 
