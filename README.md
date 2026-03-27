@@ -74,7 +74,7 @@
 
 ## 🚀 Latest Work
 
-<a href="https://luminadeveg.com" target="_blank">
+<a href="https://[luminadeveg.com](https://lumina-psi-pearl.vercel.app/)" target="_blank">
   <img 
     src="https://image.thum.io/get/width/1000/crop/600/delay/10000/https://lumina-psi-pearl.vercel.app" 
     alt="Lumina AI Preview" 
@@ -96,7 +96,7 @@
 > 🔹 Clean architecture & high-performance UI  
 
 
-🔗 **Live Platform:** https://lumina-psi-pearl.vercel.app/
+🔗 **Live Platform:** https://luminadeveg.com/
 
 ---
 
