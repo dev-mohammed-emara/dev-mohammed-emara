@@ -74,7 +74,7 @@
 
 ## 🚀 Latest Work
 
-<a href="https://[luminadeveg.com](https://lumina-psi-pearl.vercel.app/)" target="_blank">
+<a href="https://luminadeveg.com/" target="_blank">
   <img 
     src="lumina.webp" 
     alt="Lumina AI Preview" 
