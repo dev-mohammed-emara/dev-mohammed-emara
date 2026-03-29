@@ -11,6 +11,8 @@
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
 🌍 Currently working remotely with a Jordan-based tech company.  
 
+📄 **Resume:** [View My Resume](https://raw.githubusercontent.com/dev-mohammed-emara/dev-mohammed-emara/main/resume.pdf)
+
 🎨 **Portfolio:** [ [https://dev-mohammed-emara-portfolio.netlify.app/](https://dev-mohammed-emara-portfolio.netlify.app/) ]
 
 ---
@@ -211,9 +213,8 @@
 
 ---
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Emara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.emara.597057/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammedemara@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Emara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.emara.597057/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammedemara@gmail.com) [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/dev-mohammed-emara/dev-mohammed-emara/main/resume.pdf)
 
 ---
 
