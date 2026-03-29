@@ -13,7 +13,7 @@
 
 📄 **Resume:** [View My Resume](https://raw.githubusercontent.com/dev-mohammed-emara/dev-mohammed-emara/main/resume.pdf)
 
-🎨 **Portfolio:** [ [https://dev-mohammed-emara-portfolio.netlify.app/](https://dev-mohammed-emara-portfolio.netlify.app/) ]
+🎨 **Portfolio:**  [https://dev-mohammed-emara-portfolio.netlify.app/](https://dev-mohammed-emara-portfolio.netlify.app/) 
 
 ---
 
