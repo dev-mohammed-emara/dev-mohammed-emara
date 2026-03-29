@@ -29,6 +29,16 @@
 
 ---
 
+## 🏢 Companies & Experience  
+
+| Logo | Company & Role | Description |
+| :--- | :--- | :--- |
+| <img src="sigma.webp" width="30" style="border-radius:6px;"/> | [**Sigma Agency**](https://sigmaagencyjo.com/) <br/> <sub>Lead Frontend Developer</sub> | Building modern, responsive web interfaces with focus on performance and UX. |
+| <img src="luminaLogo.png" width="35" style="border-radius:6px;"/> | [**LuminaDevEg**](https://luminadeveg.com/) <br/> <sub>Co-Founder & Frontend Lead</sub> | Leading frontend architecture for an agentic AI SaaS platform. |
+| <img src="devaptor.webp" width="30" style="border-radius:6px;"/> | [**Devaptor**](https://devaptor.netlify.app/) <br/> <sub>Frontend Developer</sub> | Developing scalable UI systems and interactive web experiences. |
+
+---
+
 ## 🧭 Engineering Philosophy  
 
 - 🧠 **Clarity over cleverness** — readable code scales better than smart hacks  
